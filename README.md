@@ -20,3 +20,13 @@ npx serve
 ```
 
 Para probar, acceder a http://localhost:3000
+
+Para deploy, ejecutar:
+
+```bash
+npm run gh-deploy
+```
+
+Este comando commitea la carpeta `build/` al subtree `gh-pages`.
+
+Con eso se puede hacer push a origin.
