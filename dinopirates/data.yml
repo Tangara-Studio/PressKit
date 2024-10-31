@@ -1,0 +1,156 @@
+# --
+# This is a product data.yml. It should present a single product.
+# The easiest way to get started writing your own product data.yml is to run:
+#
+# milou new -t product
+#
+# --
+
+type: product
+
+# Locale of the product page
+locale: en_US
+
+# General information
+title: Dinopirates from Inner Space
+website: https://tangara.studio/dinopirates
+
+# Simple and short description block for your product
+description: Dinopirates from Inner Spaces is a frenetic Shoot 'Em Up bullet hell where you will play as TripleTreasure Tom (aka TTT), a Dinopirate who has lost his ship, crew, and honor. In this adventure, you must help TTT prove his worth in various missions and tasks, using weapons, parrots (yes, parrots), and all his skills. TTT is gradually planning his long-awaited mutiny to take over the S.S. Waterqueen and reclaim his crew and Dinopirate honor.
+
+# URL to request a copy
+pressCopyRequest: https://tangara.studio/dinopirates/request
+
+# Business partners: investors, publishers, etc...
+# partners:
+#   - type: Publisher
+#     title: Pixelnest Studio
+#     website: https://pixelnest.io/
+#     basedIn: Rennes, France
+#   - type: Distributor
+#     title: Pizza Oven LLC
+
+# Release date(s)
+releaseDates:
+  - TBA, 2025 (PC)
+  - TBA, 2025 (Switch)
+  - TBA, 2025 (PS4 / PS5)
+
+# Platforms
+platforms:
+  - name: PC / Mac
+    link: https://tangara-studio.itch.io/dinopirates-from-inner-space
+  - name: Switch (TBA)
+  - name: PS Store (TBA)
+
+# Prices (by currency)
+prices: 
+  - currency: EUR
+    value: 14.99
+  - currency: USD
+    value: 14.99
+  - currency: GBP
+    value: 14.99
+  - currency: JPY
+    value: 2300
+
+# Relations allows linking multiple products together by their title
+# relations:
+#   - type: DLC
+#     product: 'My Super Game: Ultimate Edition'
+
+# The product history
+# histories:
+#   - header: Add some storytelling here
+#     text: Some backgrounds behind the creation process.
+#   - header: Why are you developping this?
+#     text: Most projects starts with a cool story.
+
+# The most important features of your product
+# features:
+#   - List some "Key Sellings Points".
+#   - Don't be too generic, don't be too pretentious.
+#   - People like numbers
+#   - Have you translated / localized your product?
+
+# Videos from YouTube, Vimeo or direct download
+# trailers:
+#   - name: Release Trailer
+#     youtube: EtXajayBLzw
+#   - name: Gameplay Video #2
+#     youtube: EPNK1j3TMjU
+#   - name: Early Access Trailer
+#     youtube: EtyQMcc19xY
+#   - name: 'Short gameplay preview: Burger vs Pizza'
+#     download: https://github.com/Tsukumogami-Software/milou/archive/refs/heads/main.zip
+
+# Store links (ID)
+widgets:
+  # appstore: 950812012
+  # playstore: com.noodlecake.altosadventure
+  # steam: 347160
+  # humble: steredenn/7SDLfk23hw
+  itch: 2311735
+  # bandcamp: 1135613467
+
+# Awards and nominations
+# awards:
+#   - description: Game of the year without a doubt
+#     info: Saint-Père-Marc-En-Poulet (France), 04 February, 2016
+#   - description: Best soundtrack
+#     info: A great game festival (World), 01 October, 2015
+#   - description: Best MYGAMENGINE game
+#     info: Deep into the woods (Forest), 31 March, 2014
+
+# User / Reviewer appreciation
+# quotes:
+#   - description: This is my favorite game of all time.
+#     name: Mum
+#     website: At home
+#     link: http://at.home/
+#   - description: A very serious quote you're very proud of by someone you respect.
+#     name: Master
+#     website: Master's website
+#     link: http://mast.er/
+#   - description: 10/10 would play it again and again.
+#     name: A friendly anonymous Steam reviewer
+#     website: Steam review
+#     link: http://steam.review/
+
+# Miscellaneous links
+# additionals:
+#   - title: Original Soundtrack (OST)
+#     description: Composed by an awesome musician. Listen for free, download for $3 at
+#     link: http://zandernoriega.bandcamp.com/album/steredenn-original-soundtrack
+#   - title: Release announcement
+#     description: Announcement are exciting, so we usually make blog posts or news about it on
+#     link: http://pixelnest.io/journal/
+
+# Information about your partners (company is auto generated)
+# abouts:
+#   - title: Tsukumogami Software
+#     description: Tsukumogami Software is a software studio based in Breda, Netherlands.  We create games and software such as itako.app and the upcoming Dice'n Goblins game.
+#   - title: Pizza Oven LLC
+#     description: This is a fake company to illustrate the fact that you can have multiple about tags in your product page.
+
+# Staff
+credits:
+  - person: Jacob Wilschrey
+    role: Creative Director, Developer
+  - person: Sebastián Zúñiga
+    role: Art Director, 2D Artist
+    website: http://dactrtr.rocks
+  - person: Juan Carlos Gallardo
+    role: Sound Artist, Developer
+    website: https://jcsystem.bandcamp.com
+
+# Additional contact informations
+# contacts:
+#   - name: Inquiries
+#     mail: mysupergame@pizzaburger.studio
+#   - name: Twitter
+#     link: https://twitter.com/pizzaburgerstudio
+#   - name: Facebook
+#     link: https://facebook.com/pizzaburgerstudio
+#   - name: Web
+#     link: http://mysupergame.pizzaburger.studio/
