@@ -19,7 +19,7 @@ website: https://tangara.studio/dinopirates
 description: Dinopirates from Inner Spaces is a frenetic Shoot 'Em Up bullet hell where you will play as TripleTreasure Tom (aka TTT), a Dinopirate who has lost his ship, crew, and honor. In this adventure, you must help TTT prove his worth in various missions and tasks, using weapons, parrots (yes, parrots), and all his skills. TTT is gradually planning his long-awaited mutiny to take over the S.S. Waterqueen and reclaim his crew and Dinopirate honor.
 
 # URL to request a copy
-pressCopyRequest: https://tangara.studio/dinopirates/request
+# pressCopyRequest: https://tangara.studio/dinopirates/request
 
 # Business partners: investors, publishers, etc...
 # partners:
@@ -46,13 +46,13 @@ platforms:
 # Prices (by currency)
 prices: 
   - currency: EUR
-    value: 14.99
+    value: TBA
   - currency: USD
-    value: 14.99
+    value: TBA
   - currency: GBP
-    value: 14.99
+    value: TBA
   - currency: JPY
-    value: 2300
+    value: TBA
 
 # Relations allows linking multiple products together by their title
 # relations:
@@ -67,16 +67,20 @@ prices:
 #     text: Most projects starts with a cool story.
 
 # The most important features of your product
-# features:
-#   - List some "Key Sellings Points".
-#   - Don't be too generic, don't be too pretentious.
-#   - People like numbers
-#   - Have you translated / localized your product?
+features:
+  - A frantic Roguelite Top-Down Shooter.
+  - Procedural progression through mission completion and upgrades.
+  - Absurd and fresh humor delivered through its story and art style.
+  - Lots of space pirate dinosaurs.
+  - Supported language; English.
+  - Full support for Gamepad, Mouse, and Keyboard.
 
 # Videos from YouTube, Vimeo or direct download
-# trailers:
-#   - name: Release Trailer
-#     youtube: EtXajayBLzw
+trailers:
+  - name: Pre-Alpha Reel 2024
+    youtube: bAjYtfcZRrw
+  - name: Pre-Alpha Reel 2024 (File)
+    download: https://www.dropbox.com/scl/fi/v5j94gpt9m5n6wci4pw76/Tangara-Studio-Dinopirates-Reel.mp4?rlkey=94whmjzrdj6uu8cwc927nzh3h&dl=0
 #   - name: Gameplay Video #2
 #     youtube: EPNK1j3TMjU
 #   - name: Early Access Trailer
