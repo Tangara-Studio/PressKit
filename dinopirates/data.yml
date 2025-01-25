@@ -13,7 +13,7 @@ locale: en_US
 
 # General information
 title: Dinopirates from Inner Space
-website: https://tangara.studio/dinopirates
+website: https://tangara.studio/
 
 # Simple and short description block for your product
 description: Dinopirates from Inner Spaces is a frenetic Shoot 'Em Up bullet hell where you will play as TripleTreasure Tom (aka TTT), a Dinopirate who has lost his ship, crew, and honor. In this adventure, you must help TTT prove his worth in various missions and tasks, using weapons, parrots (yes, parrots), and all his skills. TTT is gradually planning his long-awaited mutiny to take over the S.S. Waterqueen and reclaim his crew and Dinopirate honor.
@@ -147,6 +147,12 @@ credits:
   - person: Juan Carlos Gallardo
     role: Sound Artist, Developer
     website: https://jcsystem.bandcamp.com
+  - person: Joaquin Puebla
+    role: 2D Artist, Animator
+    website: https://www.instagram.com/teykio/
+  - person: Mauricio Castro
+    role: Musician
+    website: https://www.instagram.com/mauplasma/
 
 # Additional contact informations
 # contacts:
