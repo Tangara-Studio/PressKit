@@ -15,6 +15,25 @@
     --font-family: "Montserrat", sans-serif;
 }
 
+
+/*
+Selection
+*/
+
+::-moz-selection {
+    color: white;
+    background: var(--green);
+}
+
+::selection {
+    color: white;
+    background: var(--green);
+}
+
+/*
+Fonts & base
+*/
+
 html {
     background-color: var(--background-page);
 }
@@ -64,7 +83,7 @@ a:active {
 
 .nav__item:hover {
     background: var(--background-nav-item);
-  }
+}
 
 .button-secondary {
     display: inline-block;
